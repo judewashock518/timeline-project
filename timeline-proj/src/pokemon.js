@@ -1,4 +1,4 @@
-[
+let timelineElements = [
     {
         "num": 1,
         "name": "Bulbasaur",
