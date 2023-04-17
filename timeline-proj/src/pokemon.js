@@ -32178,4 +32178,6 @@ let timelineElements = [
         ],
         "link": "https://pokemondb.net/pokedex/melmetal"
     }
-]
+];
+
+export default timelineElements;
