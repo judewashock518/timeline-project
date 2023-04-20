@@ -20,10 +20,10 @@ function App() {
             >
               <h3 className="vertical-timeline-pokemon-name">
                 {element.name}
-                {element.image}
+                {element.variations[0].image}
               </h3>
               <h5 className="vertical-timeline-pokemon-description">
-                {element.variations.description}
+                {element.variations[0].description}
               </h5>
             </VerticalTimelineElement>
           )
